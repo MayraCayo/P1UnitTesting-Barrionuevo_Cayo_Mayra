@@ -1,0 +1,6 @@
+# Forzar que .cs sea detectado como C#
+*.cs linguist-language=C#
+
+# Ignorar HTML y CSS del análisis del lenguaje
+*.html linguist-detectable=false
+*.css linguist-detectable=false
