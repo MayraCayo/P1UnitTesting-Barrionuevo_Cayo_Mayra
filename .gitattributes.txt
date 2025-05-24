@@ -1,0 +1,2 @@
+# Forzar que todos los archivos .cs sean reconocidos como C#
+*.cs linguist-language=C#

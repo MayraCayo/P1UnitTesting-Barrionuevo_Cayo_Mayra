@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R5z6jUHOD4w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fan Computers\\Desktop\\DIPLOMADO\\MODULO 2\\PracticaUnitTesting-Barrionuevo\\StudentAPI\\StudentAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fan Computers\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Fan Computers\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
